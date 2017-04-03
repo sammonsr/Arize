@@ -1,2 +1,4 @@
 # CocoaPods package manager
 Pods/
+
+.DS_Store
